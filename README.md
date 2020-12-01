@@ -1,7 +1,40 @@
 # ResumeManagementSystem
 Will Maintain Employees Resumes 
 
+# Menu Options
+1) Home
+2) Registration page
+3) Login Page
+4) View Profile
+5) Update Profile
+6) Delete Profile
+7) Logout
+8) About us
 
+# Models
+1) Industries
+    a) Education
+    b) IT
+    c) Marketing
+2) Registration
+    a) Full Name
+    b) Phone No (unique)
+    c) Username (Email)
+    d) Password
+    e) OTP
+    e) Date (Auto date)
+3) Login --- Registration
+    a) username (Email)
+    b) password 
+4) Profile
+    a) Name
+    b) Higher Education
+    c) Photo
+    d) CV
+    e) contact
+    f) email
+    g) Industries Type 
+    
 # Registration page
 ===== Fields =====
 1) Name
